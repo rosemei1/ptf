@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rosemei1/portfolio/static/css/main.ddec14d6.css",
+    "main.js": "/rosemei1/portfolio/static/js/main.fdb943c9.js",
+    "static/js/453.acca0757.chunk.js": "/rosemei1/portfolio/static/js/453.acca0757.chunk.js",
+    "index.html": "/rosemei1/portfolio/index.html",
+    "main.ddec14d6.css.map": "/rosemei1/portfolio/static/css/main.ddec14d6.css.map",
+    "main.fdb943c9.js.map": "/rosemei1/portfolio/static/js/main.fdb943c9.js.map",
+    "453.acca0757.chunk.js.map": "/rosemei1/portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddec14d6.css",
+    "static/js/main.fdb943c9.js"
+  ]
+}
